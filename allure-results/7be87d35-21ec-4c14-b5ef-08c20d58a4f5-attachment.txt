@@ -1,0 +1,25 @@
+constants loaded
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=144.0.7559.59)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6ecf25715
+	0x7ff6ecf25770
+	0x7ff6eccd108d
+	0x7ff6ecca7be2
+	0x7ff6ecd5d386
+	0x7ff6ecd79772
+	0x7ff6ecd1cc28
+	0x7ff6ecd1db33
+	0x7ff6ed20e9f0
+	0x7ff6ed208ded
+	0x7ff6ed22969a
+	0x7ff6ecf411e5
+	0x7ff6ecf499cc
+	0x7ff6ecf2ebf4
+	0x7ff6ecf2eda6
+	0x7ff6ecf14e87
+	0x7ff95d68e8d7
+	0x7ff95eaac53c
+
